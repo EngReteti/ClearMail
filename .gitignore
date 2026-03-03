@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+models/*.pkl
+data/*.csv
+data/*.zip
+.env
